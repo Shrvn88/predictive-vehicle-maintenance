@@ -11,6 +11,15 @@ This project demonstrates a **production-style ML pipeline** including:
 - Health monitoring visualization
 
 ---
+## 🎉 Output
+<img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/4aaee6cb-4267-4c9f-acc1-891cec303345" />
+<img width="1919" height="793" alt="image" src="https://github.com/user-attachments/assets/cdbbca21-d137-467e-808e-0c8d6af2fc89" />
+<img width="1919" height="793" alt="image" src="https://github.com/user-attachments/assets/f3edcc1d-bcab-4c61-a8d6-316404eeeb19" />
+<img width="1919" height="448" alt="image" src="https://github.com/user-attachments/assets/bc48eeb1-4694-4830-a2b8-21aba90dfcb0" />
+
+
+
+---
 
 ## 📌 Key Features
 
